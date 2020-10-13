@@ -1,2 +1,2 @@
-# TS-Python
-Python functions for time series analysis
+# Time Series Toolbox in Python
+Python functions for time series data analysis
